@@ -28,3 +28,11 @@ html{
     float: right;
     display: block;
 }
+#time{
+    color: #fff;
+}
+button{
+    color: #fff;
+    display: flex;
+    align-items: center;
+}
